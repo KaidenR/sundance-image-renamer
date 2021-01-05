@@ -48,7 +48,7 @@
     }
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "csv-parse": "4.4.1",
     "electron-squirrel-startup": "1.0.0",
     "es6-promise-pool": "2.5.0",
